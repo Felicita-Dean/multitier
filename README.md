@@ -1,2 +1,2 @@
-# multitier
-Terraform code for multi tier 
+# Terraform-week7
+Terraform code for multi-tier 
